@@ -221,3 +221,6 @@ rules_knowledge_base/
 *_agentcore_*/**/.cli/
 # Re-include the CDK stack sources (root "lib/" rule would hide them)
 !*_agentcore_*/**/cdk/lib/
+
+data/
+

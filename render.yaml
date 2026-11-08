@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: once-upon-agentic-ai
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python standalone_app.py
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: PORT
+        value: 10000
