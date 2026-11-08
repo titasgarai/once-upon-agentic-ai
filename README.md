@@ -1,12 +1,15 @@
 # 🧙‍♂️ Once Upon Agentic AI: Autonomous Fantasy Game Master
 
+[![Live Web UI](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://once-upon-agentic-ai.onrender.com)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Strands Agents](https://img.shields.io/badge/Strands-Agents%20SDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://strandsagents.com/)
 [![MCP Ready](https://img.shields.io/badge/Protocol-MCP-green?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![A2A Enabled](https://img.shields.io/badge/Protocol-A2A-blue?style=for-the-badge)](https://a2a-protocol.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-> *"Roll for Initiative... in Python!"* 🎲⚔️
+> *"Roll for Initiative... in Python!"* 🎲⚔️  
+> 🌐 **Live Public App:** [https://once-upon-agentic-ai.onrender.com](https://once-upon-agentic-ai.onrender.com)  
+> 📖 **Interactive Swagger Docs:** [https://once-upon-agentic-ai.onrender.com/docs](https://once-upon-agentic-ai.onrender.com/docs)
 
 An advanced, production-grade **Multi-Agent RPG Game Master** platform built with the open-source **Strands Agents SDK**. The system moves beyond monolithic prompting by assembling a specialized party of autonomous AI agents communicating over **Model Context Protocol (MCP)** and **Agent-to-Agent (A2A)** protocol.
 
